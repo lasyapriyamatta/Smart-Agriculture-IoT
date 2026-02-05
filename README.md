@@ -61,13 +61,6 @@ These alerts can be extended to trigger **automated irrigation systems** in real
 
 ---
 
-## 🚀 Future Enhancements
-* Integration with real-time dashboards
-* Cloud data storage and analytics
-* AI/ML-based crop health prediction
-* Mobile application for remote monitoring
-* Solar-powered low-energy edge devices
-
 ---
 
 ## ✅ Conclusion
