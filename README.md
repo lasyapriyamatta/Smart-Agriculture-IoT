@@ -61,22 +61,6 @@ These alerts can be extended to trigger **automated irrigation systems** in real
 
 ---
 
-## 📂 Repository Structure
-
-Smart-Agriculture-IoT/
-│
-├── firmware/
-│   └── esp32_agriculture_monitor.ino
-│
-├── cloud/
-│   └── server.py
-│
-├── docs/
-│   └── project_report.md
-│
-└── README.md
-```
-
 ## 🚀 Future Enhancements
 * Integration with real-time dashboards
 * Cloud data storage and analytics
@@ -94,6 +78,3 @@ The modular and scalable design makes it suitable for real-world agricultural an
 
 ## 👩‍💻 Author
 Lasya Priya Matta - ECE
-
-
-Just tell me 👍
